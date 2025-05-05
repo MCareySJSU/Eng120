@@ -1,0 +1,153 @@
+﻿Main_Menu,Sub_Menu,Sub_Item,Sub_Sub_Menu,Sub_Sub_Item,Options,Meats,Sides,Extra_Side,Extra Chili or Salad,Potato Stuffing,Price,Additional Cost,Description
+Appetizer,,,,,,,,,,,,,
+BBQ and Ribs,,,,,,,,,,,,,
+Famous Feasts,,,,,,,,,,,,,
+Meats by the Pound,,,,,,,,,,,,,
+Salads and Chili,,,,,,,,,,,,,
+Burgers,,,,,,,,,,,,,
+Sides and Cornbread,,,,,,,,,,,,,
+Tacos,,,,,,,,,,,,,
+Sandwiches,,,,,,,,,,,,,
+Desserts,,,,,,,,,,,,,
+Beverages,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Appetizer,Dave's Sampler Platter,,,,,,,,,29.95,,"Southside Rib Tips, hand-breaded Chicken Tenders, Sweetwater Catfish Fingers, crispy Onion Strings, and Boneless Wings tossed in your choice of sauce."
+,Appetizer,BBQ Nachos,,,,,,,,,15.25,,"Our Famous Nachos topped with your choice of Texas Beef Brisket, Georgia Chopped Pork, or Pulled BBQ Chicken."
+,Appetizer,Burnt Ends Appetizer,,,,,,,,,19.95,,Tender pieces of Texas Beef Brisket seared and caramelized with Sweet & Zesty®BBQ sauce.
+,Appetizer,Mozerella Sticks Appetizer,,,,,,,,,9.95,,Everyone loves these breaded Mozzarella sticks served with classic Marinara sauce
+,Appetizer,Southside Rib Tips Appetizer,,,,,,,,,14.95,,"Memphis-Style, dry-rubbed Rib Tips, jalapeño pickled red onions, spicy Hell-Fire®Pickles and our Southside sauce"
+,Appetizer,Catfish Fingers Appetizer,,,,,,,,,15.95,,"Lightly breaded with Cajun-seasoned cornmeal, flash-fried, and served with Remoulade sauce"
+,Appetizer,Traditional Wings Appetizer,,,,,,,,,15.25,,Seasoned and tossed in your choice of sauce.
+,Appetizer,Boneless Wings Appetizer,,,,,,,,,15.25,,Seasoned and tossed in your choice of sauce
+,Appetizer,Mac and Cheese Bites,,,,,,,,,12.95,,"Creamy mac & cheese hand-breaded with classic potato chips, tossed in brisket rub and topped with Parmesan cheese. Served with a side of Ranch dressing."
+,Appetizer,BBQ Quesadilla,,,,,,,,,18.95,,"Served with your choice of BBQ pulled chicken, Brisket, or Chopped Pork."
+,Appetizer,Fish and Chips,,,,,,,,,16.95,,Hand-breaded cod filets served with crispy Famous Fries.
+,Appetizer,Onion Rings,,,,,,,,,12.95,,"Thick-cut, golden brown rings of sweet onion, lightly battered and fried to a satisfying crunch."
+,BBQ and Ribs,St Louis Style Spareribs,,,Bones,,,,,,Varies,,"Hand-rubbed with Dave’s secret blend of spices and pit-smoked for 3 - 4 hours over a smoldering hickory fire. Then slathered with Rich & Sassy® BBQ sauce over an open flame to seal in the Famous flavor with a crispy, caramelized coating."
+,BBQ and Ribs,Georgia Chopped Pork Platter,,,,,,,,,18.95,,
+,BBQ and Ribs,Texas Beef Brisket Platter,,,,,,,,,22.95,,
+,BBQ and Ribs,Southside Rib Tips Platter,,,,,,,,,22.95,,
+,BBQ and Ribs,Country Roasted Chicken Platter,,,,,,,,,20.95,,
+,BBQ and Ribs,BBQ Chicken Platter,,,,,,,,,20.95,,
+,BBQ and Ribs,Texas Tri Tip Steak Platter,,,,,,,,,22.95,,
+,BBQ and Ribs,Sweatwater Catfish Platter,,,,,,,,,22.95,,
+,BBQ and Ribs,2 Meat Combo,,,"Meats=2, Sides=2, Add_Side = 1, Extra_Side=1, Chili_Salad=1",2,2,1,1,,24.95,,
+,BBQ and Ribs,3 Meat Combo,,,"Meats=3, Sides=2, Add_Side = 1, Extra_Side=1, Chili_Salad=1",3,2,1,1,,31.95,,
+,Famous Feasts,Mega Feast,,,,,,,,,209.95,,"Two full Slabs of St. Louis-Style Spare Ribs, Two Whole Country Roasted Chicken, Georgia Chopped Pork, Creamy Coleslaw, Famous Fries, Wilbur Beans and Sweet Corn, served family-style for 10-12 people."
+,Famous Feasts,All-American Feast,,,,,,,,,109.95,,"A full slab of St. Louis-Style Spare Ribs, a whole Country Roasted Chicken, Georgia Chopped Pork, Creamy Coleslaw, Famous Fries, Wilbur Beans, Sweet Corn, and Corn Bread. Serves 4-6 people."
+,Famous Feasts,Family and Friends Feast,,,,,,,,,84.95,,"Memphis-style dry-rubbed Rib Tips , a whole Country Roasted Chicken, Creamy Coleslaw, Famous Fries, Wilbur Beans, Sweet Corn, and Corn Bread. Serves 3-5 people."
+,Famous Feasts,Feast for Two,,,,,,,,,59.95,,"Generous helpings of our St. Louis-Style Spare Ribs, Country Roasted Chicken, Georgia Chopped Pork, Creamy Coleslaw, Famous Fries, Wilbur Beans, Sweet Corn, and Corn Bread. Serves 2-3 people"
+,Famous Feasts,Founder's Feast,,,,,,,,,37.95,,"Georgia Chopped Pork, ¼ Country Roasted Chicken, 3 St. Louis-Style Spare Ribs, Sweet Corn, Potato Salad, Creamy Coleslaw, Famous Fries, and Corn Bread."
+,Meats by the Pound,Big Slab,,,,,,,,,31.00,,
+,Meats by the Pound,Hot Links,,,,,,,,,25.00,,
+,Meats by the Pound,Tri Tip,,,,,,,,,35.00,,
+,Meats by the Pound,Rib Tips,,,,,,,,,13.99,,
+,Meats by the Pound,Georgia Chopped Pork,,,,,,,,,25.00,,
+,Meats by the Pound,Brisket,,,,,,,,,35.00,,
+,Meats by the Pound,BBQ Pulled Chicken LB,,,,,,,,,25.00,,
+,Meats by the Pound,Whole BBQ Chicken,,,,,,,,,25.00,,
+,Meats by the Pound,Whole Country Roasted Chicken,,,,,,,,,25.00,,
+,Salads and Chili,Ceasar Salad,,,,,,,,,11.25,,Crisp Romaine tossed in our Garlic Caesar dressing and topped with seasoned croutons and shaved Parmesan Cheese.
+,Salads and Chili,Chicken Chopped Salad,,,,,,,,,16.25,,"Choice of grilled chicken breast or BBQ Pulled Chicken. Tossed with cilantro, Cheddar Cheese, tomatoes, roasted corn, beans, tortilla strips and lime chipotle ranch dressing then drizzled with Rich & Sassy® BBQ Sauce."
+,Salads and Chili,Blackened Salmon Salad,,,,,,,,,19.95,,"Crisp Romaine and greens topped with blackened salmon, avocado, tomatoes, and onions."
+,Salads and Chili,Dave's Sassy BBQ Salad,,,,,,,,,17.95,,"Your choice of BBQ Pulled Chicken, Georgia Chopped Pork, Texas Beef Brisket, or grilled chicken breast on a bed of crisp greens with bacon, Cheddar Cheese, tomatoes, and shoestring potatoes. Served with Honey BBQ dressing."
+,Salads and Chili,Side Salad,,,,,,,,,4.95,,Fresh garden side salad.
+,Salads and Chili,Bowl of Chili w/ Side Salad,,,,,,,,,9.95,,Dave's Award-Winning Chili Bowl with a fresh garden side salad.
+,Salads and Chili,Dave's Award Winning Chili Bowl,,,,,,,,,7.95,,
+,Salads and Chili,Stuffed Baked Potatoes,,,Potato_meat,,,,,,,,A large baked potato with your choice of stuffing.
+,Burgers,Dave's Favorite Burger,,,,,,,,,16.95,,Slathered with Rich & Sassy® BBQ Sauce and topped with melted Monterey Jack Cheese and bacon.
+,Burgers,Devil's Spit Burger,,,,,,,,,16.95,,"Slathered with Devil’s Spit® BBQ Sauce and topped with melted Pepper-Jack Cheese, bacon and spicy Hell-Fire® Pickles."
+,Burgers,Ultimate Burger,,,,,,,,,18.95,,"Piled high with Georgia Chopped Pork, bacon, Cheddar Cheese and Sweet & Zesty® BBQ Sauce."
+,Burgers,Jack-N-Stacked Burger,,,,,,,,,16.95,,Topped with Monterey Jack Cheese and stacked with crispy Onion Strings.
+,Burgers,Double Bacon Cheddar Burger,,,,,,,,,18.95,,"Topped with DOUBLE Cheddar Cheese, Rich & Sassy® BBQ Sauce, grilled onions, and DOUBLE bacon."
+,Burgers,Veggie Burger,,,,,,,,,13.95,,"A classic burger served with a black bean patty, lettuce, tomato, pickles, and Cheddar Cheese. Try it lettuce wrapped!"
+,Sides and Cornbread,Individual Sides,,,Add_Side,,,,,,,,Single Serving
+,Sides and Cornbread,Dozen Corn Bread Muffins,,,,,,,,,18.00,,One dozen cornbread muffins.
+,Sides and Cornbread,Sides to Share,,,Share_Sides,,,,,,,,Quart sides serve 6-8.
+,Tacos,"BBQ Pulled Chicken, lettuce, tomatoes, and pico de gallo.",,,,,,,,,15.75,,Three of your favorite tacos. Feel free to mix and match your favorites:
+,Tacos,"Catfish, lettuce, tomatoes, and pico de gallo.",,,,,,,,,15.75,,
+,Tacos,"Baja Shrimp, creamy coleslaw, cilantro, and lime.",,,,,,,,,15.75,,
+,Tacos,"Buffalo Chicken, lettuce, tomatoes, and pico de gallo.",,,,,,,,,15.75,,
+,Tacos,"Chopped Pork, lettuce, tomatoes, and pico de gallo.",,,,,,,,,15.75,,
+,Sandwiches,Tri Tip Sandwich,,,,,,,,,18.95,,Our Famous Tri Tip Steak served on a garlic buttered French Roll with melted Provolone Cheese and onions.
+,Sandwiches,BBQ Pulled Chicken Sandwich,,,,,,,,,14.95,,"Roasted, pulled chicken tossed in Rich & Sassy® BBQ Sauce and topped with melted Monterey Jack Cheese."
+,Sandwiches,Cajun Chicken Sandwich,,,,,,,,,16.95,,"Grilled, Cajun-seasoned chicken breast topped with Pepper-Jack Cheese, fried Onion Strings and Remoulade sauce."
+,Sandwiches,Texas Beef Brisket Sandwich,,,,,,,,,18.95,,"Piled high with hand-seasoned, hickory-smoked Texas Beef Brisket."
+,Sandwiches,Nashville Hot Chicken Sandwich,,,,,,,,,16.95,,"A hand-breaded chicken breast topped with Nashville Sauce, Creamy Coleslaw, and pickles."
+,Sandwiches,Georgia Chopped Pork Sandwich,,,,,,,,,14.95,,Slow-smoked chopped pork topped with Rich & Sassy® BBQ Sauce.
+,Sandwiches,Hickory Chicken Sandwich,,,,,,,,,16.95,,"Marinated, grilled chicken breast topped with Monterey Jack Cheese and bacon."
+,Sandwiches,The Manhandler,,,,,,,,,18.95,,"Choice of Texas Beef Brisket or Georgia Chopped Pork, topped with Hot Link Sausage & spicy Hell-Fire® Pickles"
+,Desserts,Down Home Banana Pudding,,,,,,,,,7.95,,
+,Desserts,Dave's Award Winning Bread Pudding,,,,,,,,,7.95,,
+,Desserts,Fresh Baked Chocolate Chip Cookies (1/2 dozen),,,,,,,,,9.95,,
+,Beverages,Iced Tea,,,,,,,,,15.00,,one gallon
+,Beverages,Lemonade,,,,,,,,,15.00,,one gallon
+,Beverages,Sweat Tea,,,,,,,,,15.00,,one gallon
+,Beverages,Bottled Water,,,,,,,,,2.00,,Bottle of Water
+,Beverages,Pepsi,,,,,,,,,2.00,,Canned Soda
+,Beverages,Diet Pepsi,,,,,,,,,2.00,,Canned Soda
+,Beverages,Sierra Mist,,,,,,,,,2.00,,Canned Soda
+,,,,,,,,,,,,,
+,,,Bones,4 bones,,,,,,,22.95,,
+,,,Bones,6 bones,,,,,,,29.95,,
+,,,Bones,8 bones,,,,,,,33.95,,
+,,,Bones,12 bones,,,,,,,37.95,,
+,,,,,,,,,,,,,Our award-winning pork is smoked for up to 12 hours and chopped to order
+,,,,,,,,,,,,,"Our classic Texas Beef Brisket is rubbed with Dave’s secret blend of spices, pit-smoked for up to 12 hours, then sliced to order."
+,,,,,,,,,,,,,"A pound of Memphis-Style, dry-rubbed tips. Served with a side of jalapeño pickled red onions, spicy Hell-Fire ® Pickles & our Southside sauce."
+,,,,,,,,,,,,,"Specially seasoned 1/2 chicken, roasted and char-grilled to perfection."
+,,,,,,,,,,,,,Country-Roasted Chicken flame-kissed and slathered with Rich & Sassy® BBQ Sauce.
+,,,,,,,,,,,,,Our Famous Tri Tip Steak seasoned with Dave’s secret blend of spices & finished with Rich & Sassy® BBQ Sauce.
+,,,,,,,,,,,,,"Lightly breaded with Cajun-seasoned cornmeal and flash-fried, served with rémoulade sauce."
+,,,Meat,Georgia Chopped Pork,,,,,,,,,Product | Famous Dave's BBQ Restaurant
+,,,Meat,Texas Beef Brisket,,,,,,,,,
+,,,Meat,Southside Rib Tips,,,,,,,,,
+,,,Meat,BBQ Chicken,,,,,,,,,
+,,,Meat,Country Roasted Chicken,,,,,,,,,
+,,,Meat,Hand Breaded Chicken Tenders,,,,,,,,,
+,,,Meat,Hot Link Sausages,,,,,,,,,
+,,,Meat,Boneless Wings,,,,,,,,,
+,,,Meat,Traditional Wings,,,,,,,,,
+,,,Meat,Tri Tip,,,,,,,,,
+,,,,,,,,,,,,,
+,,,Add_Side,Wilbur Beans,,,,,,,,4.95,
+,,,Add_Side,Creamy Coleslaw,,,,,,,,4.95,
+,,,Add_Side,Sweet Corn,,,,,,,,4.95,
+,,,Add_Side,Famous Fries,,,,,,,,4.95,
+,,,Add_Side,Garlic Red-Skinned Mashed Potatoes,,,,,,,,4.95,
+,,,Add_Side,Dave's Cheesy Mac & Cheese,,,,,,,,4.95,
+,,,Add_Side,Potato Salad,,,,,,,,4.95,
+,,,Add_Side,Corn Bread Muffin,,,,,,,,1.49,
+,,,Chili_Salad,Side Chili,,,,,,,,4.95,
+,,,Chili_Salad,Side Salad,,,,,,,,4.95,
+,,,Side,Garlic Red-Skinned Mashed Potatoes,,,,,,,,,
+,,,Side,Dave's Cheesy Mac & Cheese,,,,,,,,,
+,,,Side,Creamy Coleslaw,,,,,,,,,
+,,,Side,Potato Salad,,,,,,,,,
+,,,Side,Famous Fries,,,,,,,,,
+,,,Side,Tater Tots,,,,,,,,,
+,,,Side,Sweet Corn,,,,,,,,,
+,,,Side,Wilbur Beans,,,,,,,,,
+,,,Side,Corn Bread,,,,,,,,,
+,,,Side,BBQ Chips,,,,,,,,,
+,,,Side,Garden Salad,,,,,,,,3.95,
+,,,Side,Caesar Salad,,,,,,,,3.95,
+,,,Side,Cup of Chili,,,,,,,,3.95,
+,,,Side,Baked Potato,,,,,,,,3.95,
+,,,Share_Sides,Wilbur Beans,,,,,,,,18.00,
+,,,Share_Sides,Creamy Coleslaw,,,,,,,,18.00,
+,,,Share_Sides,Sweet Corn,,,,,,,,18.00,
+,,,Share_Sides,Famous Fries,,,,,,,,18.00,
+,,,Share_Sides,Garlic Red-Skinned Mashed Potatoes,,,,,,,,18.00,
+,,,Share_Sides,Dave's Cheesy Mac & Cheese,,,,,,,,18.00,
+,,,Share_Sides,Potato Salad,,,,,,,,18.00,
+,,,Share_Sides,Corn Bread Muffin,,,,,,,,18.00,
+,,,Potato_meat,Brisket,,,,,,,19.95,,
+,,,Potato_meat,Chicken,,,,,,,15.95,,
+,,,Potato_meat,Pork,,,,,,,14.95,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
